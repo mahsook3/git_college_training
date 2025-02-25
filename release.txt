@@ -1,0 +1,6 @@
+Release notes
+Version: 1.0
+Date: February 25, 2025
+
+- Initial release
+- Feature: [Description of new feature]
